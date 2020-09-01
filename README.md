@@ -1,3 +1,3 @@
 # About
 
-These are some codes for testing the Serialization/deserialization latency and size.  
+These are some codes for testing the serialization/deserialization latency and size.  
